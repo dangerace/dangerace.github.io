@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://dangerace.github.io</id>
     <title>Gridea</title>
-    <updated>2021-11-16T15:06:04.045Z</updated>
+    <updated>2021-11-17T12:55:08.701Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://dangerace.github.io"/>
     <link rel="self" href="https://dangerace.github.io/atom.xml"/>
@@ -11,7 +11,16 @@
     <icon>https://dangerace.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, Gridea</rights>
     <entry>
-        <title type="html"><![CDATA[Hello Gridea]]></title>
+        <title type="html"><![CDATA[这是一个测试]]></title>
+        <id>https://dangerace.github.io/post/zhe-shi-yi-ge-ce-shi/</id>
+        <link href="https://dangerace.github.io/post/zhe-shi-yi-ge-ce-shi/">
+        </link>
+        <updated>2021-11-17T12:54:33.000Z</updated>
+        <content type="html"><![CDATA[<p>用来测试一下，这个软件好用不啊？</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hello Guys]]></title>
         <id>https://dangerace.github.io/post/hello-gridea/</id>
         <link href="https://dangerace.github.io/post/hello-gridea/">
         </link>
